@@ -19,7 +19,9 @@
 <li> إصلاح مشكلة البحث عن الثيمات</li>
 <li> إصلاحات أخرى</li>
 <li> تعديل علاء اسماعيل<li>
-<p>New Base Updated 7.10</p>
+<p>New Base Updated 10.11</p>
 <p> Update method: Click Open. You will see the explanation article. You will find links in golden, red and blue. Download and install the new version without deleting the old version </ p>
+
+
 ","url":"https://www.free-netsyr.com/2019/06/2020_20.html"
 }
