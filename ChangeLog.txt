@@ -1,4 +1,4 @@
-﻿{"version_code":452650,"content":"
+﻿{"version_code":452649,"content":"
 <p>تحديث 6.30</p>
 
 <li>هذه النسخه ضد الحظر <li>
