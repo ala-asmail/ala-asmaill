@@ -1,2 +1,1 @@
-# ChangeLog
 # ala-asmail
