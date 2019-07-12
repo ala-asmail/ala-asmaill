@@ -1,4 +1,4 @@
-{"version_code":451244,"content":"
+{"version_code":452646,"content":"
 <p>تحديث 6.40</p>
 <li> التحديث لنسخة الماركت 2.19.17.327 </li>
 <li>نسخه ضد الحظر</li>
@@ -15,6 +15,20 @@
 <li>اصلاح مشكلة ظهور عداد الرسائل المخفية</li>
 <li>اصلاحات اخرى</li>
 <li> تعديل علاء اسماعيل<li>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, user-scalable=no" />
+<style>
+h1 {
+    color: #0683ab;
+    text-shadow: 5px 5px 5px #555a4a;
+}
+</style>
+</head>
+<body style="background-color:transparent;">
+<marquee behavior="alternate" scrollamount="10"><h1>Developer Alaa Ismail</h1></marquee>
+</body>
+</html>
 
 <p>New Base Updated 6.35</p>
 <p> Update method: Click Open. You will see the explanation article. You will find links in golden, red and blue. Download and install the new version without deleting the old version </ p>
