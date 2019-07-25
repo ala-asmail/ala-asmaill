@@ -1,5 +1,5 @@
-{"version_code":451244,"content":"
-<p>تحديث 6.40</p>
+{"version_code":452646,"content":"
+<p>تحديث 6.45</p>
 <li> التحديث لنسخة الماركت 2.19.17.327 </li>
 <li>تم اضافة الملصقات الى النسخه</li>
 <li>تم اضافه موقع اختصار الروابط للنسخه</li>
@@ -18,8 +18,8 @@
 <li>اصلاحات اخرى</li>
 <li> تعديل علاء اسماعيل<li>
 
-<p>New Base Updated 6.40</p>
+<p>New Base Updated 6.45</p>
 <p> Update method: Click Open. You will see the explanation article. You will find links in golden, red and blue. Download and install the new version without deleting the old version </ p>
 
-","url":"https://www.free-netsyr.com/2019/06/blog-post_25.html"
+","https://www.free-netsyr.com/2019/07/blog-post_25.html"
 }
